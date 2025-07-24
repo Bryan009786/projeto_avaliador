@@ -1,0 +1,6 @@
+1. Iniciar aplicação
+2. Exibir janela de login
+3. Verificar autenticação
+4. Exibir menu principal
+5. Acessar cadastro de clientes, produtos ou registrar vendas
+6. Salvar informações no banco de dados MySQL

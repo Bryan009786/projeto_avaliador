@@ -1,0 +1,4 @@
+- Cadastro de clientes, produtos e usuários
+- Registro de vendas com múltiplos itens
+- Interface gráfica com Tkinter
+- Login de usuário
